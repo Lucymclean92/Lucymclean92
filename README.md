@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lucymclean92
-- 👀 I’m interested in becoming a <b> Full Stack Developer </b>
+- 👀 I’m interested in becoming a <strong> Full Stack Developer </strong>
 - 🌱 I’m currently learning HTML and CSS
-- 📫 How to reach me - <b> Lucymclean1992@gmail.com </b>
+- 📫 How to reach me - <strong> Lucymclean1992@gmail.com </strong>
 
-<i>PS: Any Tips Welcome :) </i>
+<em>PS: Any Tips Welcome :) </em>
 
 <!---
 Lucymclean92/Lucymclean92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
